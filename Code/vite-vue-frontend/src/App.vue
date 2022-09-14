@@ -5,12 +5,10 @@
 </template>
 
 <script setup>
-import CounterButton from '@/components/CounterButton.vue'
-import { RouterView, RouterLink } from 'vue-router'
 </script>
 
 <style>
-@import '@/styles/variables.css';
+@import './styles/variables.css';
 
 *{
   margin: 0;

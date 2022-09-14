@@ -1,7 +1,7 @@
 <template>
-  <div id="homepage" class="page">
-    <h1>Card Games</h1>
-    <DefaultButton btnContent="Login als gast" routerPath="/login/guest"/>
+  <div id="game-queue" class="page">
+    <h1>Waiting for players</h1>
+    <h2>Gamepin: {{currentGame}}</h2>
   </div>
 </template>
 
@@ -12,15 +12,17 @@ import {SessionStorageManager} from "../classes/SessionStorage/SessionStorageMan
 
 export default {
   components: {
-    DefaultButton,
   },
 
   setup() {
     const sessionManager = new SessionStorageManager();
+    const currentGame = JSON.parse(sessionManager.getItem("currentGame"));
     onMounted(async () => {
-      sessionManager.deleteItem("currentGame");
+      console.log("This is on mounted")
     });
-    return {}
+    return {
+      currentGame
+    }
   }
 }
 </script>
@@ -30,7 +32,7 @@ body {
   background-color: var(--color-hub-background);
 }
 
-#homepage {
+#game-queue {
   display: flex;
   justify-content: center;
   align-items: center;

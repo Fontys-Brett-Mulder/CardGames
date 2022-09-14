@@ -1,24 +1,21 @@
 <template>
-  <div id="homepage" class="page">
-    <h1>Card Games</h1>
-    <DefaultButton btnContent="Login als gast" routerPath="/login/guest"/>
+  <div id="homepage">
+    {{DefaultProp}}
   </div>
 </template>
 
 <script lang="ts">
 import DefaultButton from "@/components/Buttons/DefaultButton.vue"
 import {onMounted} from "vue";
-import {SessionStorageManager} from "../classes/SessionStorage/SessionStorageManager";
 
 export default {
   components: {
-    DefaultButton,
+    DefaultProp,
   },
 
   setup() {
-    const sessionManager = new SessionStorageManager();
     onMounted(async () => {
-      sessionManager.deleteItem("currentGame");
+      console.log("This is on mounted")
     });
     return {}
   }
