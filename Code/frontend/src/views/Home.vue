@@ -1,6 +1,6 @@
 <template>
   <div id="homepage" class="page">
-    <h1>Card Games</h1>
+    <h1>Card Games!!!</h1>
     <DefaultButton btnContent="Login als gast" routerPath="/login/guest"/>
   </div>
 </template>

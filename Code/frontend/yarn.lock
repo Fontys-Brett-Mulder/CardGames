@@ -272,6 +272,11 @@ esbuild-windows-64@0.15.7:
   resolved "https://registry.npmjs.org/esbuild-windows-64/-/esbuild-windows-64-0.15.7.tgz"
   integrity sha512-7MI08Ec2sTIDv+zH6StNBKO+2hGUYIT42GmFyW6MBBWWtJhTcQLinKS6ldIN1d52MXIbiJ6nXyCJ+LpL4jBm3Q==
 
+esbuild-windows-64@^0.15.8:
+  version "0.15.8"
+  resolved "https://registry.yarnpkg.com/esbuild-windows-64/-/esbuild-windows-64-0.15.8.tgz#cedee65505209c8d371d7228b60785c08f43e04d"
+  integrity sha512-ag9ptYrsizgsR+PQE8QKeMqnosLvAMonQREpLw4evA4FFgOBMLEat/dY/9txbpozTw9eEOYyD3a4cE9yTu20FA==
+
 esbuild-windows-arm64@0.15.7:
   version "0.15.7"
   resolved "https://registry.yarnpkg.com/esbuild-windows-arm64/-/esbuild-windows-arm64-0.15.7.tgz#7d5e9e060a7b454cb2f57f84a3f3c23c8f30b7d2"
