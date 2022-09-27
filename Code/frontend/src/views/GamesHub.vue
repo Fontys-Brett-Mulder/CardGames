@@ -5,37 +5,54 @@
       Deel mee aan bestaand spel
     </router-link>
     <h2 style="padding: 10px">Maak een nieuw spel</h2>
-
     <!--New Games-->
-    <div class="new-games-wrapper">
-      <GameTile GameName="Honderden" Difficulty="Easy"/>
-      <GameTile GameName="Honderden" Difficulty="Easy"/>
-      <GameTile GameName="Honderden" Difficulty="Easy"/>
+    <div class="new-games-wrapper" >
+      <GameTile v-for="item in games" v-bind:key="item.id" :GameName="item.name" :Difficulty="item.difficulty"/>
     </div>
 
   </div>
 </template>
 
 <script lang="ts">
-import {onMounted} from "vue";
 import {SessionStorageManager} from "../classes/SessionStorage/SessionStorageManager";
 import {IPlayerGuest} from "../Interfaces/Player/IPlayerGuest";
 import GameTile from "@/components/Games/GameTile.vue";
+import axios from "axios";
+import {GameModel} from "../models/Game";
 
 export default {
+  data() {
+    return {
+      games: [] as Array<GameModel>,
+      player: "" as IPlayerGuest,
+    }
+  },
   components: {
     GameTile
   },
-  setup() {
+  mounted() {
+    /**
+     * Defining properties, classes
+     */
     const sessionManager = new SessionStorageManager();
-    const player: IPlayerGuest = JSON.parse(sessionManager.getItem("playerName"));
-    onMounted(async () => {
+    this.player = JSON.parse(sessionManager.getItem("playerName"));
 
-    });
-    return {
-      player
+    /**
+     * Get all the games and assign to this.games
+     */
+    const getGamesData = () => {
+      axios.get('https://localhost:7167/api/Games/getAllGames')
+          .then((resp) => {
+                this.games = resp.data;
+              }
+          )
     }
-  }
+
+    /**
+     * Call all functions
+     */
+    getGamesData();
+  },
 }
 </script>
 
@@ -51,7 +68,7 @@ body {
   flex-direction: column;
 }
 
-.new-games-wrapper{
+.new-games-wrapper {
   width: 90%;
   display: flex;
   flex-wrap: wrap;
