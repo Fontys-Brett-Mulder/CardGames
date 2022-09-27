@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace GamesService.Migrations
 {
-    [DbContext(typeof(DatabaseContext))]
+    [DbContext(typeof(ApplicationDbContext))]
     partial class DatabaseContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
@@ -32,10 +32,10 @@ namespace GamesService.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("MaxPlayers")
+                    b.Property<int?>("MaxPlayers")
                         .HasColumnType("int");
 
-                    b.Property<int>("MinPlayers")
+                    b.Property<int?>("MinPlayers")
                         .HasColumnType("int");
 
                     b.Property<string>("Name")

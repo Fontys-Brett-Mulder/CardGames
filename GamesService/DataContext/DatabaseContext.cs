@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace GamesService.DataContext
 {
-    public class DatabaseContext : DbContext
+    public class ApplicationDbContext : DbContext
     {
-        public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
 
