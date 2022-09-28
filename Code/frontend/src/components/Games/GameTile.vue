@@ -1,8 +1,8 @@
 <template>
-  <router-link class="game-tile" :to="{ path: '/honderden' }" style="text-decoration: none; color: inherit;">
+  <router-link class="game-tile" :to="{ path: '/gameQueue' }" style="text-decoration: none; color: inherit;">
     <img src="@/assets/images/card-game-tile.png" class="game-tile-image"/>
     <div class="bottom-game-tile">
-      {{GameName}}
+      {{ GameName }}
     </div>
   </router-link>
 </template>
@@ -11,12 +11,15 @@
 
 export default {
   props: [
+    'GameId',
     'GameName',
     'Difficulty',
     'ImagePath',
     'MinPlayers',
     'MaxPlayers',
   ],
+  mounted() {
+  }
 }
 </script>
 
@@ -32,14 +35,14 @@ export default {
   margin: 10px;
 }
 
-.game-tile-image{
+.game-tile-image {
   position: absolute;
   left: 45%;
   transform: translateX(-50%);
   width: 60%;
 }
 
-.bottom-game-tile{
+.bottom-game-tile {
   position: absolute;
   bottom: 0;
   right: 0;

@@ -7,7 +7,14 @@
     <h2 style="padding: 10px">Maak een nieuw spel</h2>
     <!--New Games-->
     <div class="new-games-wrapper" >
-      <GameTile v-for="item in games" v-bind:key="item.id" :GameName="item.name" :Difficulty="item.difficulty"/>
+      <GameTile v-on:click="saveGameToLocalstorage(item)"
+                v-for="item in games"
+                :key="item.id"
+                :GameName="item.name"
+                :Difficulty="item.difficulty"
+                :GameId="item.id"
+                Imagepath="Hello"
+      />
     </div>
 
   </div>
@@ -15,7 +22,6 @@
 
 <script lang="ts">
 import {SessionStorageManager} from "../classes/SessionStorage/SessionStorageManager";
-import {IPlayerGuest} from "../Interfaces/Player/IPlayerGuest";
 import GameTile from "@/components/Games/GameTile.vue";
 import axios from "axios";
 import {GameModel} from "../models/Game";
@@ -24,11 +30,16 @@ export default {
   data() {
     return {
       games: [] as Array<GameModel>,
-      player: "" as IPlayerGuest,
+      player: "" as string,
     }
   },
   components: {
     GameTile
+  },
+  methods: {
+    saveGameToLocalstorage: function (game: GameModel){
+      sessionStorage.setItem("currentGameId ", JSON.stringify(game.id));
+    },
   },
   mounted() {
     /**
