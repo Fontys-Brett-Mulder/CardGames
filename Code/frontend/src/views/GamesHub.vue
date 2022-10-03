@@ -38,7 +38,12 @@ export default {
   },
   methods: {
     saveGameToLocalstorage: function (game: GameModel){
-      sessionStorage.setItem("currentGameId ", JSON.stringify(game.id));
+      sessionStorage.setItem("currentGameId", game.id.toString());
+      this.createNewGamePin();
+    },
+    createNewGamePin: function (){
+      let randomNumber = Math.floor(100000 + Math.random() * 900000);
+      sessionStorage.setItem("gamePin", randomNumber.toString());
     },
   },
   mounted() {
@@ -46,12 +51,13 @@ export default {
      * Defining properties, classes
      */
     const sessionManager = new SessionStorageManager();
-    this.player = JSON.parse(sessionManager.getItem("playerName"));
+    this.player = sessionManager.getItem("playerName");
 
     /**
      * Get all the games and assign to this.games
      */
     const getGamesData = () => {
+      console.log("Hello");
       axios.get('https://localhost:7167/api/Games/getAllGames')
           .then((resp) => {
                 this.games = resp.data;

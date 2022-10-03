@@ -6,7 +6,7 @@ const routes = [
     {path: '/about', name: 'about', component: () => import('@/views/About.vue')},
     {path: '/games-hub', name: 'games-hub', component: () => import('@/views/GamesHub.vue')},
     {path: '/joingame', name: 'join-game', component: () => import('@/views/JoinGame.vue')},
-    {path: '/gamequeue', name: 'game-queue', component: () => import('@/views/GameQueue.vue')},
+    {path: '/gamequeue', name: 'game-queue', component: () => import('@/views/gameViews/GameQueue.vue')},
     // Game Views
     {path: '/game/0a60bb85-125e-4fca-b630-9cfb1f24914a', name: 'honderden-game', component: () => import('@/views/gameViews/honderden/Honderden.vue')},
     {path: '/game/40df038d-c845-44b1-babc-6b8ff0e7fcd4', name: 'boer-zoekt-vrouw-game', component: () => import('@/views/gameViews/boer-zoekt-vrouw/BoerZoektVrouw.vue')},

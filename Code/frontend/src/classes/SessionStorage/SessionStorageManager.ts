@@ -15,8 +15,8 @@ export class SessionStorageManager implements ISessionStorageManagers{
      * Getting the value of player from SessionStorage
      * @param key
      */
-    getItem(key: string): IPlayerGuest{
-        return JSON.stringify(sessionStorage.getItem(key));
+    getItem(key: string){
+        return sessionStorage.getItem(key);
     }
 
     /**
