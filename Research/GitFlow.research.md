@@ -8,7 +8,7 @@
 4. [How to use GitFlow](https://github.com/Fontys-Brett-Mulder/CardGames/edit/main/Research/GitFlow.research.md#how-to-use-gitflow)
 5. [Wich branches do you have?](https://github.com/Fontys-Brett-Mulder/CardGames/edit/main/Research/GitFlow.research.md#wich-branches-do-you-have)
 
-# Wat is GitFlow?
+# What is GitFlow?
 Giflow is an alternative Git branching model that involves the use of feature branches and multiple primary branches. Because you use feature branches, the end commit to the main branch will be a lot bigger. 
 
 # Why to not push directly to the main branch?
