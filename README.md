@@ -33,3 +33,8 @@ For my frontend I use Vite + VueJs. For my backend I am going to use C# (not in 
 
 5. Visit `http://localhost:5173/` to view the project
 
+***
+# Dependencies
+- CardGamesAPI - https://github.com/Fontys-Brett-Mulder/GamesServiceAPI
+
+
