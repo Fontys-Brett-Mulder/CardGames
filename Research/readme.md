@@ -1,7 +1,7 @@
 # Research
-For now, none of my Researches has been done with the DOT-framework, but eventually it will be done.
+In this folder, all of my researches can be Found.
 
 # My researches
-- GitFlow - 
+- [GitFlow](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Research/GitFlow.research.md)
 - Security - 
 - Microservices - 
