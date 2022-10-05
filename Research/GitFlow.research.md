@@ -34,3 +34,7 @@ After that you will be deirectly added to the "development" branch.
 - Feature: When you are going to be adding a new feature to your project, you need to checkout to a new branch from "Development". You can create your new feature. When you are done developing, create a pull request to "Development" branch. When this one is accepted, your new feature will be added to the "Development" branch.
 - Bugfix: When there is a bug in your application. This one can be used. You have to checkout from "Development". And create a pull requets for the bugfix to "Development".
 
+# Sources
+- https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+- https://docs.gitlab.com/ee/topics/gitlab_flow.html
+
