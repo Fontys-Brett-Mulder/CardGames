@@ -1,10 +1,12 @@
 # Security Research
 
-![Web Security](img.png)
+![image](https://user-images.githubusercontent.com/99179239/194536264-cfebb837-ab4b-4981-9d0c-00cfaaf73d39.png)
 
 # Content
 
-1. [What is Security?]()
+1. [What is Security?](https://github.com/Fontys-Brett-Mulder/CardGames/edit/25-research-about-security/Research/Security.research.md#what-is-security)
+2. [Security and Development](https://github.com/Fontys-Brett-Mulder/CardGames/edit/25-research-about-security/Research/Security.research.md#security-and-development)
+3. [7 things to make your website more secure](https://github.com/Fontys-Brett-Mulder/CardGames/edit/25-research-about-security/Research/Security.research.md#7-things-to-make-your-website-more-secure)
 
 # What is Security?
 
@@ -17,7 +19,7 @@ explain.
 As it comes to Security and Development, Security has another meaning. When you create an account on a website, you want
 your data to be safe and secure. This can be done using password hashing, authentication and a lot more.
 
-# 7 thing to secure your website
+# 7 things to make your website more secure
 
 ***
 
@@ -87,6 +89,7 @@ you use such passwords I recommend using a tool to keep those passwords safe. Fo
 ***
 
 ## 4. Keep your website up to date
+Keeping your website up to date is easy and usefull trick to keep hackers out. There are constantly coming new versions of programming languages. These updates are not for nothing, they get rid of vulnerabilities in the code. When you are not upgrading it, you change of getting hacked is getting bigger.
 
 ***
 
