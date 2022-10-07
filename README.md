@@ -37,4 +37,9 @@ For my frontend I use Vite + VueJs. For my backend I am going to use C# (not in 
 # Dependencies
 - CardGamesAPI - https://github.com/Fontys-Brett-Mulder/GamesServiceAPI
 
+***
+# My researches
+- [GitFlow](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Research/GitFlow.research.md)
+- [Security](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Research/Secutiry.research.md) 
+
 
