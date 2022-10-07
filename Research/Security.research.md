@@ -85,24 +85,59 @@ On the end we have our new password: **PeFy2015!#**
 
 when you want to use a much secure password you can use tools
 like [Lastpass](https://www.lastpass.com/features/password-generator). You can create passwords completely random. When
-you use such passwords I recommend using a tool to keep those passwords safe. For example [KeePass](https://keepass.info/).
+you use such passwords I recommend using a tool to keep those passwords safe. For
+example [KeePass](https://keepass.info/).
 ***
 
 ## 4. Keep your website up to date
-Keeping your website up to date is easy and usefull trick to keep hackers out. There are constantly coming new versions of programming languages. These updates are not for nothing, they get rid of vulnerabilities in the code. When you are not upgrading it, you change of getting hacked is getting bigger.
+
+Keeping your website up to date is easy and useful trick to keep hackers out. There are constantly coming new versions
+of programming languages. These updates are not for nothing, they get rid of vulnerabilities in the code. When you are
+not upgrading it, you change of getting hacked is getting bigger.
 
 ***
 
 ## 5. Don't help the hackers
 
+Hackers are smart people that can easily trick you in some ways. For example: fake emails, filling in data on unsafe
+websites with no SSL (https).
+
+1. **Beware of public or open internet connections** if you’re working in a shared space like a cafe – they won’t be
+   secure!
+2. **Never click on links in emails that seem suspect** – delete the email straight away! This is still important if
+   you’re using a professional email connected to your website, rather than a personal one.
+3. **Be careful who you grant access to your website** – check admins are people you can trust, and make sure they’re
+   security-conscious.
+4. **Change the default settings**, passwords, and usernames of your site as soon as you’ve set up your account – this
+   is especially important for WordPress sites.
+5. **Only trust verified professionals** to access your site. For example, scammers sometimes want to take control of
+   your screen under the pretense of fixing a technical issue.
+
 ***
 
 ## 6. Manually accept on-site comments
 
+When it comes down to comments on a website, there are a lot of vulnerabilities. For example: Bots, Fake accounts and
+people that are trolling. In this case you as a website owner wants to be able to accept those comments manually.
+
+If people can post comments directly to your website, there’s a chance that malicious links might sneak into the
+comments section. **This is particularly dangerous for your website’s visitors**, who might click on the link and risk
+exposing personal data or accidentally install malware.
 ***
 
 ## 7. Run regular backups
 
-# Sources
+Backing uo your website is a very important aspect for securing your site. You can run backups on multiple ways.
 
+1. **Off-site backups** – this keeps your data far away from hackers in a secure, off-site location rather than in a
+   normal server. This also protects your backups from hardware failure.
+2. **Automated backups** – remember when we said that 95% of security breaches were through human error? Don’t forget to
+   create backups and pay the price – by automating this process you can simply sit back and relax.
+3. **Redundant backups** – this means your website’s data is stored in not just one, but multiple server locations.
+   Think of it like having backups or your backups!
+4. **Regular backups** – it’s no good if you’re only running backups once per year. If a hack attack strikes, you’ll be
+   left with an outdated version of your site. You should aim for weekly backups at the very least.
+
+# Sources
 - https://www.websitebuilderexpert.com/building-websites/how-to-secure-a-website/
+- https://www.namecheap.com/promos/security/
