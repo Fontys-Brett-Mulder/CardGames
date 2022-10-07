@@ -26,6 +26,7 @@ your data to be safe and secure. This can be done using password hashing, authen
 ## 1. Install SSL
 
 ### What is SSL?
+![image](https://user-images.githubusercontent.com/99179239/194539553-df6eaafc-7e47-4d1f-afe5-9a1eb5db5e70.png)
 
 The easiest thing to do to protect your website, users and yourself, is to install SSL (Secure Sockets Layer)
 certificate. You can check if your, or other websites use SSL by looking at the url. When the url starts with "https"
@@ -42,6 +43,7 @@ or transferring files. Without it, the data is unprotected, and vulnerable to ha
 ***
 
 ## 2. Use anti-malware software
+![image](https://user-images.githubusercontent.com/99179239/194539449-6d58292e-53be-4c81-a7f1-553fae4f3b70.png)
 
 Anti-malware software sounds like a lot, but it actually gets done for you. It keeps viruses away from your laptop/pc,
 this way no one can steal information from your local machine. This software creates Free SSL, Hack Protection,
@@ -60,6 +62,8 @@ Source: https://www.antivirusguide.com/nl/beste-anti-malware/?lp=default&utm_sou
 ***
 
 ## 3. Make your passwords uncrackable
+![image](https://user-images.githubusercontent.com/99179239/194539404-bb3c5c28-9087-4935-9cbb-eb88b3e79f6b.png)
+
 
 Passwords are thins you use every day, but are your passwords as secure as you think they are? Lets start.
 
@@ -98,6 +102,7 @@ not upgrading it, you change of getting hacked is getting bigger.
 ***
 
 ## 5. Don't help the hackers
+![image](https://user-images.githubusercontent.com/99179239/194539282-33e0e870-2b84-4bfd-9e95-461777c8a8ab.png)
 
 Hackers are smart people that can easily trick you in some ways. For example: fake emails, filling in data on unsafe
 websites with no SSL (https).
@@ -126,6 +131,7 @@ exposing personal data or accidentally install malware.
 ***
 
 ## 7. Run regular backups
+![image](https://user-images.githubusercontent.com/99179239/194539109-231165ca-34ce-418a-a65e-d351f121e148.png)
 
 Backing uo your website is a very important aspect for securing your site. You can run backups on multiple ways.
 
