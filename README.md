@@ -10,30 +10,6 @@ CardGames is a web game for those who forgot their playing cards, but stil wants
 For my frontend I use Vite + VueJs. For my backend I am going to use C# (not in my project yet). Because everyone needs to be talking to eachother, but still needs to be in sync, I am going to use WebSockets. 
 
 ***
-# Installation
-1. Cloning this Repo
-
-
-`git clone https://github.com/Fontys-Brett-Mulder/CardGames.git`
-
-2. Go to the folder "Code"
-
-
-`cd Code`
-
-3. Build docker container
-
-
-`docker compose build`
-
-4. Run docker container
-
-
-`docker compose up`
-
-5. Visit `http://localhost:5173/` to view the project
-
-***
 # Dependencies
 - CardGames Frontend - https://github.com/Fontys-Brett-Mulder/CardGamesFrontend
 - CardGamesAPI - https://github.com/Fontys-Brett-Mulder/GamesServiceAPI
