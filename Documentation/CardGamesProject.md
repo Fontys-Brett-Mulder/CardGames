@@ -21,7 +21,7 @@ uiteindelijk wanneer het begint etc.
 ## Inspiratie
 
 Hieronder zie je het idee vanuit een bestaande app.
-![img.png](Images/Inspriation.png)
+![img.png](Images/Cardgames/Inspriation.png)
 
 Bron: https://cardgames.io/
 ***
@@ -150,10 +150,10 @@ Ik zit te twijfelen tussen Angular en VueJS. Beide heb ik ze niet tot weinig geb
 helemaal niet, VueJS vorig semester met de proftaak.
 
 ### Angular
-![](Images/angular.png)
+![](Images/Cardgames/angular.png)
 
 ### VueJS
-![](Images/vuejs.png)
+![](Images/Cardgames/vuejs.png)
 
 ### Conclusie
 Ik vind dat ik VueJs niet goed genoeg ken om te zeggen dat ik het helemaal onder de knie heb. Mijn
