@@ -4,6 +4,9 @@
 ***
 
 # Inhoud
+1. [Wat is een microservice?](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Research/Microservices.research.md#wat-is-een-microservice)
+2. [Structuur microservice](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Research/Microservices.research.md#structuur-microservice)
+3. [Samenvatting](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Research/Microservices.research.md#samenvatting)
 ***
 
 # Wat is een microservice
