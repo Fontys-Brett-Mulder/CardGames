@@ -9,7 +9,13 @@
 
 ## Content
 
-[Beschrijving](link)
+1. [Beschrijving](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/CardGamesProject.md#beschrijving)
+2. [User Stories](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/CardGamesProject.md#user-stories)
+3. [Requirements](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/CardGamesProject.md#requirements)
+4. [Backend Programming Framework](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/CardGamesProject.md#backend-programming-framework)
+5. [Frontend Programming Framework](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/CardGamesProject.md#frontend-programming-framework)
+6. [Microservices](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/CardGamesProject.md#microservices)
+6. [Samenvatting](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/CardGamesProject.md#samenvatting)
 ***
 
 # Beschrijving
@@ -174,7 +180,7 @@ laten communiceren.
 Voor meer informatie. Zie het document over Microservices.
 
 
-#Samenvatting
+# Samenvatting
 Dus, ik ga een CardGame Web Applicatie maken. Die ga ik maken doormiddel van C# als backend. Als
 front-end framework ga ik VueJS gebruiken. Dit allemaal ga opzetten met de microservice
 architectuur
