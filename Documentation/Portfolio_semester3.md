@@ -156,6 +156,35 @@ pull requestst is het alleen op de “main” branch.
 ***
 
 # Cultural differences and ethics
+### Wat is cultuur?
+Cultuur is de manier waarom we bepaalde dingen doen. Het gaat over het gedrag dat we vertonen. Dit gedrag/manier waarop we dingen doen wordt vaak door een grote groep gedaan en niet alleen door jezelf. Cultuur kan voorkomen in kleding, uitspraken, handeling, overtuigingen etc. Omdat dit gedrag door een groep gedeelt wordt, zijn mensen van een andere cultuur al snel overtuigt dat dat persoon tot een andere cultuur behoort.
+
+Cultuur ontwikkelt zich elke dag weer, er komt bijvoorbeeld een nieuwe handeling bij iedereen in. Bijvoorbeeld dat iedereen ineens na het eten een bepaalde handeling doet, of er komt een nieuwe soort kleding uit dat ineens iedereen begint met dragen. 
+
+### Wat zijn wel bekende dimensies van culturelere verschillen? 
+**Machtsafstand** - Het verschil tussen machthebbers en ondergeschikten. Wie bepaald wat er gebeurt in een cultuur en wie moet ergens naar luisteren. Bij elke cultuur is dit verschil groter als de ander.
+
+**Individualisme versus collectivisme** - Een **individualistische** samenleving is wanneer banden tussen individuen ongedwongen zijn. In deze samenleving zorgen deze individuele mensen voor hun familie en zichzelf. Een **collectivistische** samenleving is wanneer een persoon vanaf zijn of haar geboorte wordt toegewezen aan een groep waar mensen voor elkaar zorgen in ruil voor loyaliteit.
+
+**Femininiteit versus masculiniteit** - Als er **feminiiteit** in de samenleving is, overlappen de seks rollen met elkaar. Dat betekend dat zowel vrouwen en mannen bescheiden en teder dienen te zijn. **Masculiniteit** is wanneer de emotionele seks rollen gescheiden zijn. Bij mannen ligt het accent op prestatie en succes en bij vrouwen licht de nadruk op bescheidenheid, tederheid en de kwaliteit van het bestaan.
+
+**Onzekerheidsvermijding** - **Onzekerheidsvermijding** is de hoeveelheid waarin mensen zich bedreigd voelen door onbekende en onzekere situaties. De mensen die hier last van hebben proberen deze situaties te ontwijken. Deze mensen hebben een behoefte aan meer regels en formaliteit.
+
+**Termijngerichtheid** - **Langtermijngerichtheid** staat voor het behalen van beloningen in de toekomst. **Kortetermijngerichtheid** is het bereiken van positieve eigenschappen, deze zijn gericht op het verleden en heden. Ze willen repest voor tradities.
+
+### Verschillen in cultuur
+Het dragen van kleding naar school. In Nederland mag je dragen wat je wilt naar school, vaak is het dragen van petten niet toe gestaan of mutsen dragen van je hoodie mag ook niet. Maar verder mag je alles dragen. Bij Britse scholen is het dragen van een unifrom verplicht. Dit is bij heel veel andere landen ook het geval. Landen doen dit om geen onderscheid te maken tussen rijke en arme leerlingen. 
+
+Bij ons is een opgestoken duim een positief gebaar, maar dat is in het Midden-Oosten en West-Afrika wel anders. In deze doorgaans islamitische landen is dit de equivalent van een opgestoken middelvinger. Ook in Griekenland en Australië wordt het opsteken van de duim niet gezien als een fraai gebaar.
+
+### Wat is mijn cultuur?
+Ik woon zelf in Limburg, zoals bekend wordt er in het zuiden Carnaval gevierd. Ook ik doe hier aan mee. Het eten van een lekker stukje Limburgse vlaai op een verjaardag kan bij mij thuis niet uit blijven. Dit is in andere delen van het land niet het geval. Ik woon in het dorpje Sevenum, dit spreken we hier echter uit als "Zearum". Dit komt door ons dialect, ik zelf spreek het niet maar het behoord wel tot onze cultuur.
+
+
+### Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?  
+
+### What is your culture? 
+
 
 ***
 
