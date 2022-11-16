@@ -6,9 +6,8 @@ I am writing this research about GitFlow because I to understand Git better. I u
 always have some conflicts in how to use it. In the beginning of this semester I read about GitFlow. GitFlow has gotten
 my attention and therefore this research about it.
 
-# Main question
-
-- How I use GitFlow in my project?
+# Main question?
+- How to implement GitFlow into your project?
 
 # Sub-Questions
 
@@ -22,7 +21,7 @@ my attention and therefore this research about it.
 
 ---
 
-# How I use GitFlow in my project?
+# How to implement GitFlow into your project?
 
 ---
 
