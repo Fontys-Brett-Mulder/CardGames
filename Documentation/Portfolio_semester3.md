@@ -118,6 +118,29 @@ goed is de acceptatiecriteriavan het ticket ook klaar zijn.
 Na elke sprint heb je een retrospective. Dit betekend dat je gaat kijken, wat ging goed en wat ging minder goed, welke
 aandachtspunten zijn er? Etc. Normaal gesproken doe je dit met een groep en overleg je wat erbeter kan etc. Ik heb daar
 de feedpulse voor. Hierin staat voor mij precies in wat ik gedaan heb en wat er beter kan etc.
+
+## Scrum groepsproject
+Voor het groepsproject gebruiken we ook scrum. Dit doen we op de volgende manier:
+
+**Sprints van 3 weken** - Deze sprint plannen we in met de opdrachtgever.
+
+**We maken gebruik van een planningsbord** - Hieronder is te zien hoe ons bord eruit ziet. We hebben de volgende lijsten: User stories, Backlog, To Do this sprint, In progress, Review, Done en USer stories done.  
+
+![image](https://user-images.githubusercontent.com/99179239/202129138-6cf11208-6f3c-4f64-a354-e29b85ab82e0.png)
+
+**Elke proftaakdag houden we standaard een stand-up om 09:30** - In deze stand-up gaat iedereen vertellen wat ze vandaag gaan doen. Hierbij houden we het kort, we pakken het bord er bij en gaan niet te diep in op de inhoud (dat komt daarna). Mocht iemand niet aanwezig zijn op het afgesproken tijdstip, dan gaat de stand-up gewoon beginnen.
+
+**Elke dag houden we een stant-down (na 15:00)** - Bij de stand-down bespreken we op wat er per persoon gedaan is die dag. Mochten er nog vragen/opmerkingen zijn dan wordt dat tijdens de stand-down gedaan.
+
+**Per sprint gebruiken we ticket** - Een ticket wordt gebaseerd op een User Storie. In een ticket staat precies wat er gedaan moet worden voor een nieuwe feature toe te voegen. Hieronder zie je een voorbeeld van een ticket.
+
+![image](https://user-images.githubusercontent.com/99179239/202131260-40aff8fb-fb59-4c99-a675-6dab5db708c1.png)
+
+**Na elke sprint houden we een retrospective (hierbij komen actiepunten/verbeterpunten uit)** - Na elke sprint doen we dus een retrospective, hierin wordt besproken wat de minpunten zijn van de afgelopen sprint. Ook staat er in wat de pluspunten waren. Wanneer iedereen deze 2 onderdelen heeft ingevuld wordt er met iedereen gekeken naar actiepunten. Deze worden opgesteld op basis van de minpunten/pluspunten.
+
+
+**Sprint review** - Na elke sprint (3 weken) wordt er een sprint review gehouden. Hier zijn de opdrachtgevers en de groep bij aanwezig. Er wordt dan een presentatie gehouden over wat we allemaal af hebben gekregen etc. Ook is er een demo die voor de opdrachtgever live te zien is. Nadat we dit gedaan hebben gaan we samen de volgende punten bespreken voor de nieuwe sprint. Hierbij geeft de opdrachtgever een voorkeur, wij kijken dan wat we af kunnen krijgen gebaseerd op "story pount". Hieruit komt voor ons de nieuwe sprint planning naar voren.
+
 ***
 
 # CI/CD
