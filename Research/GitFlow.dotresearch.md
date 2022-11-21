@@ -7,7 +7,7 @@ always have some conflicts in how to use it. In the beginning of this semester I
 my attention and therefore this research about it.
 
 # Main question?
-- How to implement GitFlow into your project?
+- How to use GitFlow into cardGames?
 
 # Sub-Questions
 
