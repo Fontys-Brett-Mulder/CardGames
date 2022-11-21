@@ -145,14 +145,17 @@ Voor het groepsproject gebruiken we ook scrum. Dit doen we op de volgende manier
 
 # CI/CD
 
-Ik heb voor mijn GamesService API een CI script gemaakt geschreven. Wanneer nieuwe code de “main” branch op wilt komen,
-doormiddel van een direct Push of doormiddel van een Pull Request, wordt de CI uitgevoerd.De code hiervan is te vinden
-in dit bestand. In dat bestand doe ik eigenlijk een paar dingen die ik hieronder ga uitleggen.
+Ik heb voor mijn SessionService API een CI/CD geschreven. Deze actions zorgen voor het testen en deployen van de SessionService. Voor het testen heb ik dus een CI geschreven die een tests uitvoert en deze is gekoppeld met SonarCloud (meer info zie "Software Quality"). 
 
-On → push → branches: “**”. Wanneer ik dus naar welke branch dan ook doe pushen, wordt dit bestand aangeroepen. Voor
-pull requestst is het alleen op de “main” branch.
+Voor het deployen van de API komt iets meer bij kijken. Hieronder is te zien hoe doe depoyen naar Azure. In Azure heb ik een Container Registry aangemaakt, hier wordt mijn Docker Container naar toe gedeployed. Dit gebeurt alleen als ik naar de ```main``` branch doe pushen (de docker image wordt via de ```dev``` branch ook naar docker hub gepushd). Azure herkend via de Container Registry of mijn docker container is aangepast. Dan wordt die automatisch via Azure gepulld. 
 
-![](Images/Portfolio/CICD.png)
+![image](https://user-images.githubusercontent.com/99179239/202999566-db4b305e-a8b4-491b-86f0-b01b7a5074e5.png)
+
+Met alleen de Container Registry staat de API nog niet live, hiervoor heb ik in Azure nog een App-Service aangemaakt. In deze App-Service is een koppeling naar de Contianer Registrty. Omdat deze altijd gelijk lopen, herkend te App-Service ook wanneer de Container Registry wordt aangepast. Als dit gebeurt dan staat de API live.
+
+### Database
+Het database moet natuurlijk ook live komen te staan. Hiervoor heb ik geen script geschreven. Ik heb via Azure een SQl Database aangemaakt. In de App-Service heb ik een connectionstring variable aangemaakt. Deze connectionstring wordt toegepast aan de Connectionstring doe in mijn applicatie staat. Op deze manier heb ik een veilige manier de ConnectionString opgeslagen.
+
 ***
 
 # Cultural differences and ethics
