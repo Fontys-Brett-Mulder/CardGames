@@ -10,7 +10,7 @@ CardGames is a web game for those who forgot their playing cards, but stil wants
 For my frontend I use Vite + VueJs. For my backend I am going to use C# (not in my project yet). Because everyone needs to be talking to eachother, but still needs to be in sync, I am going to use WebSockets. 
 
 ***
-# Dependencies
+# Loosely coupled Dependencies
 - CardGames Frontend - https://github.com/Fontys-Brett-Mulder/CardGamesFrontend
 - CardGamesAPI - https://github.com/Fontys-Brett-Mulder/GamesServiceAPI
 
