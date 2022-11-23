@@ -101,6 +101,20 @@ Bij maintainability wordt gekeken naar stukjes code die beter kunnen. Bijvoorbee
 een object moet non-nullable zijn etc.
 
 ![](Images/Portfolio/Sonarcloud_2.png)
+
+### Unit tests
+Voor het testen van de Applicatie ga ik eerst kijken van, wat moet er gestest gaan worden. Ik heb daar voor mezelf een gekozen om mijn acceptatiecriteria te testen van een User Storie. Hieronder is de acceptatiecriteria te zien van een User Storie. Gepaseerd op deze checklist ga ik mijn applicatie testen.
+
+![image](https://user-images.githubusercontent.com/99179239/203490496-807b964e-e3a1-4a4d-8de9-5d6981df291a.png)
+
+- Om te zien of ik een lijst van spellen terug krijg. Ga ik testen of datgene wat ik terug krijg ook echt echt van het GameModel zijn.
+
+![image](https://user-images.githubusercontent.com/99179239/203491054-db7ae889-8c1a-4ede-91eb-1dd0b8b8992f.png)
+
+- Om te zien of er name, difficylty, min en max spelers worden teruggegeven test ik in een functie of deze er bij zitten of niet.
+
+![image](https://user-images.githubusercontent.com/99179239/203493015-d48590cc-5608-4cef-b5b2-3834cc80efea.png)
+
 ***
 
 # Agile Methods
