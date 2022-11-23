@@ -109,11 +109,12 @@ Voor het testen van de Applicatie ga ik eerst kijken van, wat moet er gestest ga
 
 - Om te zien of ik een lijst van spellen terug krijg. Ga ik testen of datgene wat ik terug krijg ook echt echt van het GameModel zijn.
 
-![image](https://user-images.githubusercontent.com/99179239/203491054-db7ae889-8c1a-4ede-91eb-1dd0b8b8992f.png)
+![image](https://user-images.githubusercontent.com/99179239/203522421-f947f9d8-8c66-4196-860d-f61105477077.png)
 
 - Om te zien of er name, difficylty, min en max spelers worden teruggegeven test ik in een functie of deze er bij zitten of niet.
 
-![image](https://user-images.githubusercontent.com/99179239/203493015-d48590cc-5608-4cef-b5b2-3834cc80efea.png)
+![image](https://user-images.githubusercontent.com/99179239/203522597-68a79f08-3e76-4a44-8349-99b6855e948f.png)
+
 
 ***
 
