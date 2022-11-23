@@ -208,12 +208,30 @@ Voor de requirements heb ik gebruik gemaakt van deze Youtube video. In deze vide
 functionele en niet-functionele requirements van een applicatie er uit moeten komen te zien. Deze heb ik toegepast in
 het “CardGames” document.
 
+## Stakeholder Analysis
+### Customers: Restaurants
+- Wants an application that is nice in use for their customers for ordering food.
+- Wants an application that is nice in use for their employees for managing food.
+
+### Product-owner: Mediaan
+- Wants to deliver a good working and good-looking application to the customer.
+- Communicates needs from customer to project team members.
+
+### Project team members: MDMA (us)
+- Wants to develop a good working and good-looking application to keep the product owner happy and to keep the promises of the product owner to the customer.
+
+
+### Users: People eating at the restaurant and people working at a restaurant
+- Want an application that is nice in use and looking nice for ordering food.
+
+
+### Users: Employees of the restaurant
+- Want an application that is easy to use for managing customer orders keeping track of the status.
+
 ## Design
 
 Voor het design van de applicatie heb ik een C4 model gemaakt. Dit C4 model staat beschreven in dit document.
-***
 
-# Business Processes
 Voor een hele overzicht ga naar: [C4 Model Firgma](https://www.figma.com/file/veAOF6YmH4w2jec82FRp2w/C4-Model-CardGames?node-id=0%3A1)
 # C1:
 ![image](https://user-images.githubusercontent.com/99179239/194816629-fb029521-d331-4f1d-b3a3-0504cac19100.png)
@@ -224,6 +242,11 @@ Voor een hele overzicht ga naar: [C4 Model Firgma](https://www.figma.com/file/ve
 # C3:
 ![image](https://user-images.githubusercontent.com/99179239/194830622-a7a25178-13ce-47a6-8554-86337fd04fca.png)
 ![image](https://user-images.githubusercontent.com/99179239/194830724-ad32e3b9-5b64-4501-a444-e0bf47384ef3.png)
+
+***
+
+# Business Processes
+!!BPMN Model!!
 
 ***
 
