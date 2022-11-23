@@ -198,11 +198,6 @@ Bij ons is een opgestoken duim een positief gebaar, maar dat is in het Midden-Oo
 Ik woon zelf in Limburg, zoals bekend wordt er in het zuiden Carnaval gevierd. Ook ik doe hier aan mee. Het eten van een lekker stukje Limburgse vlaai op een verjaardag kan bij mij thuis niet uit blijven. Dit is in andere delen van het land niet het geval. Ik woon in het dorpje Sevenum, dit spreken we hier echter uit als "Zearum". Dit komt door ons dialect, ik zelf spreek het niet maar het behoord wel tot onze cultuur.
 
 
-### Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?  
-
-### What is your culture? 
-
-
 ***
 
 # Requirements en Design
