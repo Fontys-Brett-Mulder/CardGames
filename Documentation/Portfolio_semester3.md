@@ -145,7 +145,11 @@ Voor het groepsproject gebruiken we ook scrum. Dit doen we op de volgende manier
 
 **Elke proftaakdag houden we standaard een stand-up om 09:30** - In deze stand-up gaat iedereen vertellen wat ze vandaag gaan doen. Hierbij houden we het kort, we pakken het bord er bij en gaan niet te diep in op de inhoud (dat komt daarna). Mocht iemand niet aanwezig zijn op het afgesproken tijdstip, dan gaat de stand-up gewoon beginnen.
 
+Wij hebben gekozen voor 9:30 omdat we dan een speling hebben door de treinen die vertraging hebben etc. En dan kan iedereen alvast even opstarten.
+
 **Elke dag houden we een stant-down (na 15:00)** - Bij de stand-down bespreken we op wat er per persoon gedaan is die dag. Mochten er nog vragen/opmerkingen zijn dan wordt dat tijdens de stand-down gedaan.
+
+Omdat er savonds soms mensen moeten werken en dus eerder moeten gaan hebben we gekozen voor een stand-down om 15:00.
 
 **Per sprint gebruiken we ticket** - Een ticket wordt gebaseerd op een User Storie. In een ticket staat precies wat er gedaan moet worden voor een nieuwe feature toe te voegen. Hieronder zie je een voorbeeld van een ticket.
 
@@ -155,6 +159,13 @@ Voor het groepsproject gebruiken we ook scrum. Dit doen we op de volgende manier
 
 
 **Sprint review** - Na elke sprint (3 weken) wordt er een sprint review gehouden. Hier zijn de opdrachtgevers en de groep bij aanwezig. Er wordt dan een presentatie gehouden over wat we allemaal af hebben gekregen etc. Ook is er een demo die voor de opdrachtgever live te zien is. Nadat we dit gedaan hebben gaan we samen de volgende punten bespreken voor de nieuwe sprint. Hierbij geeft de opdrachtgever een voorkeur, wij kijken dan wat we af kunnen krijgen gebaseerd op "story pount". Hieruit komt voor ons de nieuwe sprint planning naar voren.
+
+### Wat heb ik van het scrum process geleerd?
+Tijdens het gebruik van scrum merk ik dat er altijd wel iets op is aan te merken. Het gebruik van scrum vind ik zelf namelijk erg fijn. Zelf heb ik er al ervaring mee vanwegen 2x stage waar ze dit ook al gebruiken. 
+
+Nu merk ik dat er qua groepsgenoten niet altijd even goed naar gekeken wordt. Een voorbeeld daarvan is het niet bijhouden van het Scrum bord. De status van waar ze mee bezig zijn is niet altijd in orde.
+
+Ik merk dus dat ik tijdens mijn 2 stages beter het Scrum process heb kunnen toepassen in vergelijking met nu. Ik denk dat dat komt door het gebrek aan ervaring en proffessionaliteit.
 
 ***
 
@@ -198,6 +209,12 @@ Bij ons is een opgestoken duim een positief gebaar, maar dat is in het Midden-Oo
 ### Wat is mijn cultuur?
 Ik woon zelf in Limburg, zoals bekend wordt er in het zuiden Carnaval gevierd. Ook ik doe hier aan mee. Het eten van een lekker stukje Limburgse vlaai op een verjaardag kan bij mij thuis niet uit blijven. Dit is in andere delen van het land niet het geval. Ik woon in het dorpje Sevenum, dit spreken we hier echter uit als "Zearum". Dit komt door ons dialect, ik zelf spreek het niet maar het behoord wel tot onze cultuur.
 
+## Ethics
+Binnen onze proftaakgroep is er een ook een vorm van Ethics toegepast. Hieronder een paar voorbeelden van:
+- We schrijven onze tickets allemaal in het engels
+- De code wordt geschreven in het engels
+- Als je te laat komt door een niet derde partij dan moet je een sixpack bier inleggen
+- Binnen onze groep is het geven van een mening heel belangrijk en staan we hiervoor open, er is dus niet 1 iemand die de leiding neemt
 
 ***
 
@@ -207,46 +224,59 @@ Ik woon zelf in Limburg, zoals bekend wordt er in het zuiden Carnaval gevierd. O
 
 Voor de requirements heb ik gebruik gemaakt van deze Youtube video. In deze video wordt precies uitgelegd hoe de
 functionele en niet-functionele requirements van een applicatie er uit moeten komen te zien. Deze heb ik toegepast in
-het “CardGames” document.
+het [CardGames](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/CardGamesProject.md#requirements) document.
 
 ## Stakeholder Analysis
 ### Customers: Restaurants
-- Wants an application that is nice in use for their customers for ordering food.
-- Wants an application that is nice in use for their employees for managing food.
+- Wilt een applicatie die goed en gemakkelijk te gebruiken is voor de consument om zo eten te bestellen
+- Wilt een applicatie die goed en gemakkelijk te gebruiken is voor het personeel om zo alle klanten zo makkelijk en snel mogelijk van dienst te zijn
 
 ### Product-owner: Mediaan
-- Wants to deliver a good working and good-looking application to the customer.
-- Communicates needs from customer to project team members.
+- Wilt een makkelijk gebruikbare applicatie dat te gebruiken is voor zijn klanten
+- Een goede en soepele communicatie tussen de klant en projectleden
 
 ### Project team members: MDMA (us)
-- Wants to develop a good working and good-looking application to keep the product owner happy and to keep the promises of the product owner to the customer.
+- Wilt programmeren aan een app met een makkelijk gebruikbare UI, waardoor de UX beter wordt. Hierdoor blijft de product owner tevreden met het development team
 
 
 ### Users: People eating at the restaurant and people working at a restaurant
-- Want an application that is nice in use and looking nice for ordering food.
+- Wilt een applicatie die gemakkelijk is voor het bestellen van eten en drinken
 
 
 ### Users: Employees of the restaurant
-- Want an application that is easy to use for managing customer orders keeping track of the status.
+- Willen een applicatie die gemakkelijk is bijhouden van bestellen zodat ze deze zo snel mogelijk kunnen verwerken en serveren bij de klant
 
 ## Design
 
+## C4 model CardGames
 Voor het design van de applicatie heb ik een C4 model gemaakt. Dit C4 model staat beschreven in dit document.
 
 Voor een hele overzicht ga naar: [C4 Model Firgma](https://www.figma.com/file/veAOF6YmH4w2jec82FRp2w/C4-Model-CardGames?node-id=0%3A1)
-# C1:
+#### C1:
 ![image](https://user-images.githubusercontent.com/99179239/194816629-fb029521-d331-4f1d-b3a3-0504cac19100.png)
 
-# C2:
+#### C2:
 ![image](https://user-images.githubusercontent.com/99179239/194825447-c0ff6730-28bc-4ed1-8060-96c8ee8a2bec.png)
 
-# C3:
+#### C3:
 ![image](https://user-images.githubusercontent.com/99179239/194830622-a7a25178-13ce-47a6-8554-86337fd04fca.png)
 ![image](https://user-images.githubusercontent.com/99179239/194830724-ad32e3b9-5b64-4501-a444-e0bf47384ef3.png)
 
+## C4 model MediaanDMA Project (met uitleg)
+#### C1
+Dit C1 model moet je van boven naar onder lezen. Een gebruiker wil eten bestellen via de site. Dit kan via de applicatie die we aan het bouwen zijn. Vanuit die applicatie kan het personeel jou eten serveren.
+![image](https://user-images.githubusercontent.com/90244103/193042119-788275c7-d849-415b-b4e4-96d0465490f0.png)
+
+#### C2
+In het C2 model wordt de applicatie uitgelegd. Vanuit de frontend maakt de gebruiker een API, hier komen bijvoorbeeld orders binnen, of gerechten ophalen etc. Ook het restaurant heeft een eigen frontend waar ze vooral de orders ophalen en deze dus kunnen gaan verwerken. Ook dit wordt opgehaald vanuit de API. Deze API staat in connectie met het MonogDB database, hier wordt alles opgeslagen.
+![image](https://user-images.githubusercontent.com/90244103/193042608-ffc75387-31a7-4a0b-be9b-eb8377a05467.png)
+
+#### C3
+In het C3 model wordt de API (backend) uit elkaar gekoppeld en besproken. vanuit de frontend wordt er een API call gemaakt naar een API (er zijn meerdere API's maar ze hebben allemaal dezelfde structuur). Vanuit de call kom je eerst langs de controller, deze controller stuurt je naar de Service. In de service worden alle business verwerkingen gedaan. Hierna gaat het naar de Repository, de Repository heeft alleen toegang tot het database. Uiteindelijk wordt alles terug gestuurd en krijgt de user een reponse vanuit de Controller.
+![image](https://user-images.githubusercontent.com/90244103/193042874-a2554a7e-e329-402a-9eb7-424149f62479.png)
 ***
 
-# Business Processes
+### Business Processes
 !!BPMN Model!!
 
 ***
