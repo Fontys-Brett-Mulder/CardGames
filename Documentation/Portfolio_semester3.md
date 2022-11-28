@@ -276,11 +276,11 @@ In het C3 model wordt de API (backend) uit elkaar gekoppeld en besproken. vanuit
 ![image](https://user-images.githubusercontent.com/90244103/193042874-a2554a7e-e329-402a-9eb7-424149f62479.png)
 ***
 
-### Business Processes
-!!BPMN Model!!
-
+# Business Processes
+### BPMN Model
+Het BPMN Model legt uit hoe de flow van de applicatie in elkaar zit. Dit model moet je lezen van links naar rechts. Er zijn 3 rows te zien, een row is voor customers, een voor staff en een voor de keuken. 
+<img width="4772" alt="BPMN_Model_MediaanDMA" src="https://user-images.githubusercontent.com/99179239/204355074-5a40313c-46c4-4132-be7d-c1794ca25337.png">
 ***
-
 # Professional
 
 Tijdens de proftaak opdracht met de groep Mediaan-DMA (proftaak groep 3 klas S3DB04) toon ik dit vooral aan. Hierin ga
