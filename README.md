@@ -16,7 +16,7 @@ For my frontend I use Vite + VueJs. For my backend I am going to use C# (not in 
 
 ***
 # My researches
-- [GitFlow Dot Frane (DOT)](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Research/GitFlow.dotresearch.md)
+- [GitFlow (DOT)](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Research/GitFlow.dotresearch.md)
 - [Security](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Research/Secutiry.research.md) 
 - [Microservices](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Research/Microservices.research.md)
 
