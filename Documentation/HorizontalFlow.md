@@ -13,6 +13,7 @@ Before we start developing we need to set up our database. We can do that by goi
 
 ## How does my project looks like? 
 This is the flow of my API. [LO 6](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#requirements-en-design)
+
 ![image](https://user-images.githubusercontent.com/99179239/207327102-5fca30a8-9d05-4777-b686-2627a2c022ad.png)
 
 ## How does our flow look like
@@ -34,6 +35,7 @@ This is the flow of my API. [LO 6](https://github.com/Fontys-Brett-Mulder/CardGa
 ## Creating a new User Story and all its needs
 Here I have an existing user story with some acceptance criteria. 
 This is the board you want to go to: https://github.com/orgs/Fontys-Brett-Mulder/projects/2
+
 ![Image](https://user-images.githubusercontent.com/99179239/207065010-f050ec20-34b1-4830-a294-fba5ec32d9bd.png)
 
 Here we have the acceptance criteria, we want to finish the one with the red line around it. "As a host, I want to start a game"
@@ -41,6 +43,7 @@ Here we have the acceptance criteria, we want to finish the one with the red lin
 
 ## Creating tickets/features for this User Story
 We can create our new ticket so we know which acceptance criteria we want to resolve. In this ticket I have some information, look inside to get a better idea about what to make. This ticket is now sitting in "To Do This Sprint". Move this to "Doing". 
+
 ![image](https://user-images.githubusercontent.com/99179239/207288129-583d8961-1e8e-4448-a69c-4c02d13afbcb.png)
 
 ## Cloning the project
@@ -111,6 +114,7 @@ Now the added feature is done. From here on we can deploy our new version to the
 
 ## If the user story is done, mark the user story on the board as done
 Because our user story is not done yet. We cant mark this user story as done. But we can mark the acceptence criteria "Als host kan je het spel starten". 
+
 ![Image](https://user-images.githubusercontent.com/99179239/207065010-f050ec20-34b1-4830-a294-fba5ec32d9bd.png)
 
 
