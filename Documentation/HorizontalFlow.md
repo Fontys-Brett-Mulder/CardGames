@@ -6,26 +6,30 @@
 I am creating an application to play card games with each other. This idea was coming up to me when I was sitting on the terrace with my friends. We had not brought any playing cards with us.
 
 ## Which languages are we using?
-It is a mobile web application made with Vite + VueJS. For the backend, I am using Asp net Core web API. 
+It is a mobile web application made with Vite + VueJS. For the backend, I am using Asp net Core web API. [LO 1](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#full-stack-web-application)
 
 ## Before we start developing
 Before we start developing we need to set up our database. We can do that by going to our SSMS application in Windows. Here under databases, we create a new empty database called "SessionCardGames". Filling out the database comes later.
 
+## How does my project looks like? 
+This is the flow of my API. [LO 6](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#requirements-en-design)
+![image](https://user-images.githubusercontent.com/99179239/207327102-5fca30a8-9d05-4777-b686-2627a2c022ad.png)
+
 ## How does our flow look like
-1. Creating a new User Story and all its needs
-2. Creating tickets/features for this User Story
+1. Creating a new User Story and all its needs [LO 8](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#professional)
+2. Creating tickets/features for this User Story [LO 3](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#agile-methods)
 3. Cloning the project
 4. Change connection string in your code 
-5. Creating a new branch using GitFlow
+5. Creating a new branch using GitFlow [LO 3](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#agile-methods)
 6. Start developing
-7. After developing create a Test (if needed) 
+7. After developing create a Test (if needed) [LO 2](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#software-quality)
 8. Pushing everything to your branch
-9. Testing
+9. Testing [LO 2](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#software-quality)
 10. Finishing git flow feature
 11. Create a pull request to the dev branch
 12. Move the ticket to "done"
-13. Moving your new version to the live version 
-14. If the user story is done, mark the user story on the board as done
+13. Moving your new version to the live version [LO 4](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#cicd)
+14. If the user story is done, mark the user story on the board as done [LO 8](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#professional)
 
 ## Creating a new User Story and all its needs
 Here I have an existing user story with some acceptance criteria. 
@@ -111,5 +115,5 @@ Because our user story is not done yet. We cant mark this user story as done. Bu
 
 
 # Summary
-At every point I have put the learning outcome to see that everything comes together.
+At every point I have put the learning outcome to see that everything comes together. I wrote this kind of tutorial I wrote everything in English, because I wrote it in English, everyone can read it. This comes out to [LO 5](https://github.com/Fontys-Brett-Mulder/CardGames/blob/main/Documentation/Portfolio_semester3.md#cultural-differences-and-ethics)
 
